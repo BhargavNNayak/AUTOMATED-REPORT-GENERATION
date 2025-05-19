@@ -70,3 +70,5 @@ This task demonstrates how Python can be used not only for data analysis but als
 
 [report.pdf](https://github.com/user-attachments/files/20279985/report.pdf)
 
+![Image](https://github.com/user-attachments/assets/0c8f16cd-a521-45ff-be04-2d7ae35747ea)
+
