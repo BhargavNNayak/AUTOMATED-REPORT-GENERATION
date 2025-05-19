@@ -12,7 +12,7 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-#TASK DESCRIPTION
+# TASK DESCRIPTION
 
 Automated Report Generation
 Objective:
@@ -65,4 +65,8 @@ Can be adapted for any data summary task (e.g., sales reports, inventory summari
 Saves time and reduces manual effort in generating recurring reports.
 
 This task demonstrates how Python can be used not only for data analysis but also for generating professional documents automatically. By integrating data handling, computation, and report generation, the script is a compact yet powerful tool for turning raw data into actionable reports—applicable in educational, corporate, and analytical settings.
+
+# OUTPUT 
+
+[report.pdf](https://github.com/user-attachments/files/20279985/report.pdf)
 
